@@ -25,7 +25,7 @@ Copy/Clear/Analyze buttons
 - ![PDF.js](https://img.shields.io/badge/PDF.js-gray)  
 - ![Tesseract.js](https://img.shields.io/badge/Tesseract.js-orange)
 
-🚀 [Live Demo](https://AnshikaGaur.github.io/Social-Media-Post-Analyzer/)
+🚀 [Live Demo](https://AnshikaGaur.github.io/Social-Media-Content-Analyzer/)
 
 ## 💡 Approach
 -I developed the Social Media Content Analyzer as a lightweight web application focused on simplicity, responsiveness, and clear functionality. The main goal was to allow users to upload either PDF documents or image files and seamlessly extract text for further analysis. To achieve this, I integrated PDF.js for parsing text from PDF files and Tesseract.js for OCR-based extraction from images, ensuring support for both digital and scanned content.
